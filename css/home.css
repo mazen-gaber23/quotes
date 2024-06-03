@@ -1,0 +1,11 @@
+.container h1{
+    font-weight: 900;
+    font-size: 80px;
+}
+button{
+    height: 50px;
+    transition: all 1s;
+}
+button:hover{
+    background-color:yellow !important;
+}
